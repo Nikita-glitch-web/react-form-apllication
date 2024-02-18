@@ -1,0 +1,15 @@
+.success_wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.success_text {
+  font-size: 43px;
+  font-weight: 700;
+  line-height: 49px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #3751FE;
+}
