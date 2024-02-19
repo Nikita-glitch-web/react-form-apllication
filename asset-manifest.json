@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-form-apllication/static/css/main.dabd523d.css",
+    "main.js": "/react-form-apllication/static/js/main.83f14595.js",
+    "static/media/bicycle-img.svg": "/react-form-apllication/static/media/bicycle-img.745f15be2520496e40de381926141187.svg",
+    "index.html": "/react-form-apllication/index.html",
+    "main.dabd523d.css.map": "/react-form-apllication/static/css/main.dabd523d.css.map",
+    "main.83f14595.js.map": "/react-form-apllication/static/js/main.83f14595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dabd523d.css",
+    "static/js/main.83f14595.js"
+  ]
+}
