@@ -29,8 +29,8 @@ function App() {
           </div>
         </div>
         <div className={style.imageWrapper}>
-          <div className={style.image}>
-            <img src={image} alt="Img" />
+          <div className={style.image_wrapper}>
+            <img className={style.image} src={image} alt="Img" />
           </div>
         </div>
       </main>

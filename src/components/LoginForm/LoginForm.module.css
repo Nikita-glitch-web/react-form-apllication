@@ -1,6 +1,5 @@
 
 .form_input {
-  width: 489px;
   height: 70px;
   color: #3751fe;
   font-family: "Roboto";
@@ -68,6 +67,19 @@ height: 13px;
 .btns_wrapper {
     display: flex;
     justify-content: left;
-    padding-top: 45px;
-    padding-bottom: 70px;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
+
+@media (max-width: 768px) {
+ .form_input {
+  margin-bottom: 17px;
+}
+
+.checkbox_content {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+}
+
