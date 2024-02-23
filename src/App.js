@@ -3,7 +3,6 @@ import image from "./images/bicycle-img.svg"
 import { Logo } from "./components/Logo";
 import { Menu } from "./components/Menu";
 import style from "./styles/App.module.css";
-import './styles/fonts.css'
 import { LoginFormComponent } from "./components/LoginForm/LoginForm";
 import { LoginBottomBar } from "./components/LoginBottomBar";
 
@@ -29,8 +28,8 @@ function App() {
           </div>
         </div>
         <div className={style.imageWrapper}>
-          <div className={style.image_wrapper}>
-            <img className={style.image} src={image} alt="Img" />
+          <div className={style.image}>
+            <img className={style.img} src={image} alt="Img" />
           </div>
         </div>
       </main>
